@@ -1,6 +1,6 @@
 # edu
 
-A new Flutter project.
+A social education platform between students and teachers
 
 ## Getting Started
 
